@@ -18,20 +18,19 @@ $mail->FromName = $nombre;
 
 //To address and name
 
-// $mail->addAddress("info@comercializadorazerbo.com");
-$mail->addAddress("ballina.santiago@gmail.com");
+$mail->addAddress("info@selomviajes.com");
 
 $mail->isHTML(true);
 
-$mail->Subject = "Cotizacion ZERBO";
+$mail->Subject = "Cotizacion SELOM";
 $mail->Body = "
               <!DOCTYPE html>
                 <html>
                 <head>
-                <title>ZERBO</title>
+                <title>SELOM</title>
                 </head>
                 <body  style='border:.5px solid rgba('0,0,0,0.8');background:#fff'>                
-                <h1 style='text-align:center;  font-weight: bold'>ZERBO</h1>
+                <h1 style='text-align:center;  font-weight: bold'>SELOM</h1>
                 <b>Telefono: </b>$telefono<br/>
                 <div style='color:#747474; padding:20px 10px; text-align: justify'>$comentario <div><br/>
 

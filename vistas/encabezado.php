@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	
+	<meta name="google-site-verification" content="6Fsc-ZE9O98XRqpKqLlQLknn6Axp53JRX4M-iXNDiSc" />
 	<link rel="icon" type="image/png" href="img/favicon.png" />
 	<title>VIAJES Y TURISMO MULTISERVICIOS SELOM</title>
 	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 

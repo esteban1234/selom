@@ -83,7 +83,7 @@
           <div class="contact-detail-box">
             <i class="fa fa-envelope fa-3x text-colored"></i>
             <h4>CORREO</h4> 
-            <a href="mailto:info@comercializadorazerbo.com" class="text-muted">info@selomviajes.com</a>
+            <a href="mailto:info@selomviajes.com" class="text-muted">info@selomviajes.com</a>
           </div>
         </div>
 
