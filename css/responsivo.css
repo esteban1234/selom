@@ -23,9 +23,10 @@
 	}
 
 	.banner, .bannern, .banners{
-		background-size: 100% 100%;
+		/*background-size: 100% 100%;
 		background-repeat: no-repeat;
-		height: 200px;
+		height: 200px;*/
+		display: none;
 	}
 
 	.tit{
@@ -158,9 +159,10 @@
 	}
 
 	.banner, .bannern, .banners{
-		background-size: 100% 100%;
+		/*background-size: 100% 100%;
 		background-repeat: no-repeat;
-		height: 230px;
+		height: 230px;*/
+		display: none;
 	}
 
 	.tit{
@@ -293,9 +295,10 @@
 	}
 
 	.banner, .bannern, .banners{
-		background-size: 100% 100%;
+		/*background-size: 100% 100%;
 		background-repeat: no-repeat;
-		height: 230px;
+		height: 230px;*/
+		display: none;
 	}
 
 	.tit{
