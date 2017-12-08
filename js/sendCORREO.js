@@ -18,16 +18,16 @@ function sendCORREO(){
         		__('_AJAX_PRE_').innerHTML = result;
 		}
 
-		if (isNaN(txtTELEFONO)) {
+		// if (isNaN(txtTELEFONO)) {
             // $('#phone').css('border-color','#FF0000');
             // alert('El número de teléfono debe tener al menos 9 números.');
 
-            result = '<div class="alert alert-dismissible alert-danger">';
-				result += '<button type="button" class="close" data-dismiss="alert">&times;</button>';
-            	result +='<p><strong> Ingrese un número telefonico correcto</strong></p>';
-        		result +='</div>';
-        		__('_AJAX_PRE_').innerHTML = result;
-        }
+    //         result = '<div class="alert alert-dismissible alert-danger">';
+				// result += '<button type="button" class="close" data-dismiss="alert">&times;</button>';
+    //         	result +='<p><strong> Ingrese un número telefonico correcto</strong></p>';
+    //     		result +='</div>';
+    //     		__('_AJAX_PRE_').innerHTML = result;
+    //     }
 
 		else
 		{
@@ -46,7 +46,7 @@ function sendCORREO(){
 				}
 
 				else if (connect.readyState != 4){
-					LimpiarCampos();
+					// LimpiarCampos();
 				}
 			}
 
@@ -71,12 +71,11 @@ function sendCORREO(){
 }
 
 
-function LimpiarCampos()
-{
-    // __('user_pres').value = "";
-    __('txtNOMBRE').value = "";
-	__('txtCORREO').value ="";
-	__('txtTELEFONO').value ="";
-    __('txtCOMENTARIO').value ="";
+// function LimpiarCampos()
+// {
+//     __('txtNOMBRE').value = "";
+// 	__('txtCORREO').value ="";
+// 	__('txtTELEFONO').value ="";
+//     __('txtCOMENTARIO').value ="";
 
-}
+// }

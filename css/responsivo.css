@@ -1,0 +1,425 @@
+@media screen and (max-width: 480px){
+/************************DISEÑO INDEX*******************************/
+	.fondo{
+			height: 100%;
+		}
+
+	.fondo figure{
+		float: none !important;
+		margin: 20px auto;
+		width: 50%;
+	}
+
+	.fondo figure img{
+		margin: auto;
+	}
+
+	.fondo h1{
+		float: none !important;
+		margin: auto;
+		font-size: 25px;
+		text-align: center;
+		padding: 20px 0px;
+	}
+
+	.banner, .bannern, .banners{
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+
+	.tit{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.del-padding{
+		padding: 0px !important;
+	}
+
+	.imagen, .imagen2, .imagen3, .img-nos, .img-ser{
+		border-radius: 10px;
+	}
+	
+	.img-nos, .img-ser{
+		margin: auto;
+	}
+
+	.sub-tit{
+		font-size: 20px;
+		font-weight: bold;
+		margin-top: 10px;
+		margin-bottom: 15px;
+
+	}
+	
+	.text-btn{
+		/*border: 2px solid red;*/
+		float: none !important; 
+		text-align: center;
+		padding: 0px 4px;
+	}
+
+	.btn-env{
+		text-align: center;
+		width: 100% !important;
+	}
+/**********************END DISEÑO INDEX*****************************/
+
+/************************DISEÑO NOSOTROS*******************************/
+	.logos{
+		width: 75%;
+		margin: auto;
+	}
+
+	.txt-casss, .texto{
+		text-align: justify;
+	}
+
+	.tit-qs{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit-qs{
+		font-size: 18px;
+		text-align: center;
+		margin-top: 0px;
+	}
+/**********************END DISEÑO NOSOTROS*****************************/
+
+/************************DISEÑO SERVICIOS*******************************/
+	.tit-erva{
+		font-size: 22px;
+		font-weight: bold;
+		text-align: center;
+	}
+/**********************END DISEÑO SERVICIOS*****************************/
+
+/************************DISEÑO CONTACTO*******************************/
+	.tit-fc{
+		margin-top: 15px;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.delete-br br{
+		display: none;
+	}
+
+	.bnt-contacto{
+		text-align: center;
+	}
+
+	.submit-btn{
+		width: 80%;
+		font-size: 16px;
+		font-weight: bold;
+	}
+/**********************END DISEÑO CONTACTO*****************************/
+
+/************************DISEÑO FOOTER*******************************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		font-size: 18px;
+		font-weight: bold;
+		margin-bottom: 10px;
+		padding: 0px 5px;
+	}
+/**********************END DISEÑO FOOTER*****************************/
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+/************************DISEÑO INDEX*******************************/
+	.fondo{
+			height: 100%;
+		}
+
+	.fondo figure{
+		float: none !important;
+		margin: 20px auto;
+		width: 50%;
+	}
+
+	.fondo figure img{
+		margin: auto;
+	}
+
+	.fondo h1{
+		float: none !important;
+		margin: auto;
+		font-size: 25px;
+		text-align: center;
+		padding: 20px 0px;
+	}
+
+	.banner, .bannern, .banners{
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		height: 230px;
+	}
+
+	.tit{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.del-padding{
+		padding: 0px !important;
+	}
+
+	.imagen, .imagen2, .imagen3, .img-nos, .img-ser{
+		border-radius: 10px;
+	}
+
+	.img-nos, .img-ser{
+		margin: auto;
+	}
+
+	.sub-tit{
+		font-size: 20px;
+		font-weight: bold;
+		margin-top: 10px;
+		margin-bottom: 15px;
+
+	}
+	
+	.text-btn{
+		/*border: 2px solid red;*/
+		float: none !important; 
+		text-align: center;
+		padding: 0px 4px;
+	}
+
+	.btn-env{
+		text-align: center;
+		width: 100% !important;
+	}
+/**********************END DISEÑO INDEX*****************************/
+
+/************************DISEÑO NOSOTROS*******************************/
+	.logos{
+		width: 75%;
+		margin: auto;
+	}
+
+	.txt-casss, .texto{
+		text-align: justify;
+	}
+
+	.tit-qs{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit-qs{
+		font-size: 18px;
+		text-align: center;
+		margin-top: 0px;
+	}
+/**********************END DISEÑO NOSOTROS*****************************/
+
+/************************DISEÑO SERVICIOS*******************************/
+	.tit-erva{
+		font-size: 22px;
+		font-weight: bold;
+		text-align: center;
+	}
+/**********************END DISEÑO SERVICIOS*****************************/
+
+/************************DISEÑO CONTACTO*******************************/
+	.tit-fc{
+		margin-top: 15px;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.delete-br br{
+		display: none;
+	}
+
+	.bnt-contacto{
+		text-align: center;
+	}
+
+	.submit-btn{
+		width: 50%;
+		font-size: 16px;
+		font-weight: bold;
+	}
+/**********************END DISEÑO CONTACTO*****************************/
+
+/************************DISEÑO FOOTER*******************************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		font-size: 18px;
+		font-weight: bold;
+		margin-bottom: 10px;
+		padding: 0px 5px;
+	}
+/**********************END DISEÑO FOOTER*****************************/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+	/************************DISEÑO INDEX*******************************/
+	.fondo{
+			height: 100%;
+		}
+
+	.fondo figure{
+		float: none !important;
+		margin: 20px auto;
+		width: 50%;
+	}
+
+	.fondo figure img{
+		margin: auto;
+	}
+
+	.fondo h1{
+		float: none !important;
+		margin: auto;
+		font-size: 25px;
+		text-align: center;
+		padding: 20px 0px;
+	}
+
+	.banner, .bannern, .banners{
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		height: 230px;
+	}
+
+	.tit{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.del-padding{
+		padding: 0px !important;
+	}
+
+	.imagen, .imagen2, .imagen3, .img-nos, .img-ser{
+		border-radius: 10px;
+	}
+
+	.img-nos, .img-ser{
+		margin: auto;
+	}
+
+	.sub-tit{
+		font-size: 20px;
+		font-weight: bold;
+		margin-top: 10px;
+		margin-bottom: 15px;
+
+	}
+	
+	.text-btn{
+		/*border: 2px solid red;*/
+		float: none !important; 
+		text-align: center;
+		padding: 0px 4px;
+	}
+
+	.btn-env{
+		text-align: center;
+		width: 100% !important;
+	}
+/**********************END DISEÑO INDEX*****************************/
+
+/************************DISEÑO NOSOTROS*******************************/
+	.logos{
+		width: 75%;
+		margin: auto;
+	}
+
+	.txt-casss, .texto{
+		text-align: justify;
+	}
+
+	.tit-qs{
+		text-align: center;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.subtit-qs{
+		font-size: 18px;
+		text-align: center;
+		margin-top: 0px;
+	}
+/**********************END DISEÑO NOSOTROS*****************************/
+
+/************************DISEÑO SERVICIOS*******************************/
+	.tit-erva{
+		font-size: 22px;
+		font-weight: bold;
+		text-align: center;
+	}
+/**********************END DISEÑO SERVICIOS*****************************/
+
+/************************DISEÑO CONTACTO*******************************/
+	.tit-fc{
+		margin-top: 15px;
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.delete-br br{
+		display: none;
+	}
+
+	.bnt-contacto{
+		text-align: center;
+	}
+
+	.submit-btn{
+		width: 50%;
+		font-size: 16px;
+		font-weight: bold;
+	}
+/**********************END DISEÑO CONTACTO*****************************/
+
+/************************DISEÑO FOOTER*******************************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		/*font-size: 18px;*/
+		font-weight: bold;
+		margin-bottom: 12px;
+		padding: 0px 5px;
+	}
+/**********************END DISEÑO FOOTER*****************************/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+
+	.banner, .bannern, .banners{
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		height: 290px;
+	}
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+
+	.banner, .bannern, .banners{
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		height: 350px;
+	}
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

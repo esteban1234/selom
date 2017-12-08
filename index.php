@@ -36,33 +36,33 @@
   
 </div>
 
-<div class="section" style="padding: 5% 0%;">
+<div class="section del-padding" style="padding: 5% 0%;">
       <div class="container">
         <h1 class="text-center tit">VIAJES</h1>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <figure class="imagen">
               
             </figure>
-            <h2 class="text-center">PUERTO VALLARTA</h2>
+            <h2 class="text-center sub-tit">PUERTO VALLARTA</h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <figure class="imagen2">
               
             </figure>
-            <h2 class="text-center">TENACATITA</h2>
+            <h2 class="text-center sub-tit">TENACATITA</h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <figure class="imagen3">
               
             </figure>
-            <h2 class="text-center" style="text-transform: uppercase;">Cancun, Sureste</h2>
+            <h2 class="text-center sub-tit" style="text-transform: uppercase;">Cancun, Sureste</h2>
             <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
@@ -75,7 +75,7 @@
       <div class="container">
         <div class="row">
           <p class="pull-left text-btn">Será un placer atender su solicitud...</p>
-          <a class="pull-right" href="vistas/contacto.php"><button type="button" class="btn btn-primary btn-lg">¡SOLICITA UNA COTIZACION!</button></a>
+          <a class="pull-right btn-env" href="vistas/contacto.php"><button type="button" class="btn btn-primary btn-sm btn-md btn-lg">¡SOLICITA UNA COTIZACION!</button></a>
         </div>
       </div>
     </div>

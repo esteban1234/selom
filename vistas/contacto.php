@@ -1,6 +1,6 @@
 
 <?php include 'encabezado2.php' ?>
-<body>
+<body class="delete-br">
 	
    <header>
   <div class="fondo">
@@ -104,7 +104,9 @@
           <div class="contact-detail-box">
             <i class="fa fa-clock-o fa-3x text-colored"></i>
             <h4>HORARIO</h4>
-            <h4 class="text-muted">Lunes a Viernes de 9 am a 6 pm</h4>
+            <address>
+              <h4 class="text-muted">Lunes a Viernes de 9 am a 6 pm</h4>
+            </address>
           </div>
         </div>
 
@@ -112,7 +114,9 @@
           <div class="contact-detail-box">
             <i class="fa fa-phone fa-3x text-colored"></i>
             <h4>TELEFONO</h4>
-            <h4 class="text-muted">PENDIENTE</h4>
+            <address>
+              <h4 class="text-muted">PENDIENTE</h4>
+            </address>
           </div>
         </div>
       </div>

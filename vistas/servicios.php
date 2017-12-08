@@ -40,12 +40,11 @@
       <div class="container">
         <h1 class="text-center tit">NUESTROS SERVICIOS</h1>
         <div class="row">
-          <div class="col-md-6">
-            <img src="../img/serv1.jpg"
-            class="img-responsive">
+          <div class="col-sm-5 col-md-6">
+            <img src="../img/serv1.jpg" class="img-responsive img-ser">
           </div>
-          <div class="col-md-6">
-            <h1>Excursiones Nacionales e Internacionales</h1>
+          <div class="col-sm-7 col-md-6">
+            <h1 class="tit-erva">Excursiones Nacionales e Internacionales</h1>
             <!-- <h3>A subtitle</h3> -->
             <p class="texto">* Viajes internacionales grupales con acompañante de Evetours para conjugar un ambiente de tranquilidad, confianza y asesoramiento para los pasajeros en el país extranjero que se visita. <br><br>
             * Viajes a espectáculos y conciertos.<br><br>
@@ -58,15 +57,15 @@
     <div class="section" style="padding: 5% 0%; background-color:  #fad7a0 ;">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <h1>Renta de Unidades</h1>
+          <div class="col-sm-6 col-md-6">
+            <h1 class="tit-erva">Renta de Unidades</h1>
             <!-- <h3>A subtitle</h3> -->
             <p class="texto">Renta de camionetas último modelo de 10, 13 y 17 pasajeros, con asientos individuales, tipo autobús, reclinables, cinturones de seguridad, aire acondicionado, calefacción, sistema de entretenimiento (DVD, Mp3, CD), seguro de viajero, placas federales de turismo, operadas por conductores altamente capacitados para su seguridad y confort para servicios locales y a toda la República Mexicana. <br><br>
             Renta de autobuses exclusivos de turismo de lujo, irizar, volvo, modalidad en 2 y 3 ejes para mayor comodidad, seguro de viajero, con capacidad de 47 a 50 plazas, asientos reclinables con cinturón de seguridad, sistema de control y servicio tacográfico de velocidad, monitores de t.v., dvd, sonido estereo, micrófono, servicio de cafetera, sanitario, aire acondicionado, calefacción, operadores altamente capacitados y conocedores.</p>
           </div>
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6">
             <img src="../img/serv2.png"
-            class="img-responsive">
+            class="img-responsive img-ser">
           </div>
         </div>
       </div>
@@ -75,12 +74,12 @@
     <div class="section" style="padding: 5% 0%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6">
             <img src="../img/serv3.png"
-            class="img-responsive">
+            class="img-responsive img-ser">
           </div>
-          <div class="col-md-6">
-            <h1>Venta de Boletos y Paquetes de Viaje</h1> <br><br>
+          <div class="col-sm-6 col-md-6">
+            <h1 class="tit-erva">Venta de Boletos y Paquetes de Viaje</h1> <br><br>
             <!-- <h3>A subtitle</h3> -->
             <p class="texto">* Venta de boletos para accesos a parques y atracciones. <br><br>
             * Venta de paquetes a destinos internacionales, con excelentes operadores receptivos que se encargarán de orientar y proporcionar los servicios contratados por los pasajeros.<br><br>
@@ -93,17 +92,17 @@
     <div class="section" style="padding: 5% 0%; background-color:  #fad7a0 ;">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <h1>Asesoria y Planeación de Viajes</h1>
+          <div class="col-sm-6 col-md-6">
+            <h1 class="tit-erva">Asesoria y Planeación de Viajes</h1>
             <!-- <h3>A subtitle</h3> -->
             <p class="texto">* Excursiones a grupos especiales, tanto a empresas de incentivos como escuela, asociaciones de pensionados, tercera edad, profesores, congresos o a familias numerosas. <br><br>
             * Reservación de hoteles.<br><br>
             * Asesoramiento y expedición de documentos obligatorios para realizar un viaje, como pasaporte y visa (aplican restricciones).<br><br>
             * Venta de Pólizas de seguro médico y de viaje.</p>
           </div>
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6">
             <img src="../img/serv4.png"
-            class="img-responsive">
+            class="img-responsive img-ser">
           </div>
         </div>
         <div class="boton" style="margin-top: 5%; text-align: center;">
